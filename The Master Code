@@ -1,0 +1,7 @@
+@echo off
+Echo Hello World
+Title I don't know
+Tree
+:Fun
+Msg* You are stupid
+Goto Fun
